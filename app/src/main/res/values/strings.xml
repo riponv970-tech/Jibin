@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Jibon Voice</string>
+    <string name="studio_title">জিবন ভয়েস এপস</string>
+    <string name="studio_subtitle">লেখো, ভয়েস বানাও!</string>
+    <string name="default_sample_text">আসসালামু আলাইকুম সবাই কেমন আছেন</string>
+    <string name="text_input_label">এখানে তোমার লেখা লেখো</string>
+    <string name="text_input_placeholder">বাংলা, English বা हिन्दी তে যেকোনো লেখা লেখো...</string>
+    <string name="btn_play_voice">ভয়েস শুনো</string>
+    <string name="btn_stop_voice">থামাও</string>
+    <string name="btn_download_voice">ভয়েস ডাউনলোড করো</string>
+    <string name="btn_generating">তৈরি হচ্ছে...</string>
+    <string name="btn_save_downloads">ফোনে সেভ করো</string>
+    <string name="btn_share_audio">শেয়ার করো</string>
+    <string name="msg_empty_text">আগে কিছু লেখো ভাই!</string>
+    <string name="msg_voice_playing">✅ ভয়েস চলতেছে ভাই...</string>
+    <string name="msg_voice_ready">⬇️ ভয়েস রেডি ভাই! প্লে করো অথবা ফোনে সেভ করো।</string>
+    <string name="msg_saved_downloads">✅ Downloads ফোল্ডারে সেভ হয়েছে!</string>
+    <string name="label_language">ভাষা বেছে নাও</string>
+    <string name="label_voice_tuning">ভয়েস কন্ট্রোল</string>
+    <string name="label_speed">গতি (Speed)</string>
+    <string name="label_pitch">সুর (Pitch)</string>
+    <string name="label_quick_phrases">ঝটপট উদাহরণ</string>
+    <string name="label_generated_audio">তৈরি করা অডিও</string>
+    <string name="label_recent_clips">আগের ভয়েস ক্লিপ</string>
+    <string name="cd_hero_banner">Jibon Voice audio studio soundwave banner</string>
+    <string name="cd_clear_text">Clear text</string>
+    <string name="cd_paste_text">Paste text</string>
+    <string name="cd_play_pause_clip">Play or pause generated audio</string>
+    <string name="cd_save_clip">Save audio to Downloads</string>
+    <string name="cd_share_clip">Share audio file</string>
+</resources>

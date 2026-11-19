@@ -1,0 +1,6 @@
+{
+  "name": "Jibon Voice",
+  "description": "Bengali, English, and Hindi text-to-speech voice generator and audio studio app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
